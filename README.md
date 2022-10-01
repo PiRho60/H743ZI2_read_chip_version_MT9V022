@@ -1,0 +1,1 @@
+# H743ZI2_read_chip_version_MT9V022
